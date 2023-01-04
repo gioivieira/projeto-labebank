@@ -22,10 +22,9 @@ https://documenter.getpostman.com/view/22370553/2s8YmNQiDM
 - Bank Transfer
 
 ## 🛰Running the project
-1. git clone https://github.com/future4code/Barros-labebank4.git 
-2. cd Barros-labebank4 
-3. npm install
-4. npm run start
+1. git clone https://github.com/gioivieira/projeto-labebank-back-end.git 
+2. npm install
+3. npm run start
 
 ## 💻Technologies
 - Node.js
